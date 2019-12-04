@@ -1,0 +1,36 @@
+{"frames": {
+
+"ground2.png":
+{
+	"frame": {"x":0,"y":0,"w":1286,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1286,"h":179},
+	"sourceSize": {"w":1286,"h":179}
+},
+"Plane.png":
+{
+	"frame": {"x":1286,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"wood2.jpg":
+{
+	"frame": {"x":0,"y":179,"w":1286,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1286,"h":640},
+	"sourceSize": {"w":1286,"h":640}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "airplan.png",
+	"format": "RGBA8888",
+	"size": {"w":1414,"h":819},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:58f3ee92413cb3101a75141ffc3f3361:be567a969ae492645baeebc17cb2f23b:bec254f023f393d0854cbfa1e558acdd$"
+}
+}

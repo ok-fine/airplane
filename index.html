@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Airplan Fighting</title>
+    <script src="./src/js/spriteUtilities.js"></script><!--绘制精灵动画-->
+    <script src="./src/js/tilingSprite.js"></script><!--绘制平铺图-->
+    <script src="./src/js/tink.js"></script><!--使用tink实现触摸屏交互效果-->
+    <script src="./src/js/dust.js"></script><!--Dust实现爆炸效果-->
+    
+    <script src="./src/js/jquery-1.11.3.min.js"></script> <!--可以靠它实现音频效果，其实是实现‘$’符号-->
+    <script src="./src/js/audio.min.js"></script> <!--其实它才是音频效果-->
+    <!--初始化audio.js-->
+    <script>
+      audiojs.events.ready(function() {
+        var as = audiojs.createAll();
+      });
+    </script>
+    
+</head> 
+<body>
+    <button>背景音乐</button> 
+<!--    <button>停止播放</button> -->
+
+    <script src="./src/js/playMusic.js"></script>
+    <script src="./src/js/airplane.js"></script>
+      
+    <style>* {padding: 0; margin: 0}</style>
+</body>
+</html>
